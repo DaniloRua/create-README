@@ -36,15 +36,21 @@ const questions = () => {
     },
     {
       type: 'input',
-      name: 'dependencies',
+      name: 'install',
       message: 'What command should be run to install dependencies?',
       default: 'NPM i'
     },
     {
       type: 'input',
       name: 'test',
-      message: 'What command should be run to rus tests?',
+      message: 'What command should be run to run tests?',
       default: 'NPM test'
+    },
+    {
+      type: 'input',
+      name: 'command',
+      message: 'What command should be run to start?',
+      default: 'node index.js'
     }
   ]
   )

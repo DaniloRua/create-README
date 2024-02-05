@@ -1,13 +1,32 @@
-# Create README file
+# Create READMe file
 
   ## Overview
-The provided Node.js code constitutes a basic command-line application designed to facilitate the generation of README files for GitHub repositories. Utilizing modules such as inquirer for user prompts and fs for file system operations, the application prompts users for key details about their repository, including repository name, GitHub username, email address, project overview, and the license being used. Upon receiving user input, the program dynamically generates markdown content through the generateMarkdown module and asynchronously writes this content to a 'README.md' file.
+The provided Node.js code constitutes a basic command-line application designed to facilitate the generation of README files for GitHub repositories. Utilizing modules such as inquirer for user prompts and fs for file system operatepository name, GitHub username, email address, project overview, and the license being used. Upon receiving user input, the program dynamically generates markdown content through the generateMarkdown module and asynchronously writes this content to a 'README.md' file.
 
-## Preview
-![screenshot](./assets/screenshot.PNG)
+## Table of Contents
+1. [Installation](#Installation)
+2. [Usage](#preview)
+3. [License](#License)
+4. [Tests](#Tests)
+5. [Contact](#Contact)
+
+## Installation
+
+- Clone the repository
+- Install using npm packages NPM i
+
+## Usage
+
+- After installation type a command line node index.js
+- Answer the questions
+![screenshot](./assets/screenshot.png)
 
 ## License
-Licensed under the [MIT](https://github.com/DaniloRua/Create README file/blob/master/LICENSE.txt) license.
+Licensed under the [MIT](https://github.com/DaniloRua/Create READMe file/blob/master/LICENSE.txt) license.
+
+## Tests
+
+- Run test using command line NPM test
 
 ## Contact
 - GitHub: [DaniloRua](https://github.com/DaniloRua)
