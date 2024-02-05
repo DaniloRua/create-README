@@ -5,6 +5,9 @@ function generateMarkdown(data) {
   ## Overview
 ${data.overview}
 
+## Preview
+![screenshot](./assets/screenshot.jpg)
+
 ## License
 Licensed under the [${data.license}](https://github.com/${data.user}/${data.title}/blob/master/LICENSE.txt) license.
 
