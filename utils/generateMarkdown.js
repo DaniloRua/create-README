@@ -6,7 +6,7 @@ function generateMarkdown(data) {
 ${data.overview}
 
 ## Preview
-![screenshot](./assets/screenshot.jpg)
+![screenshot](./assets/screenshot.png)
 
 ## License
 Licensed under the [${data.license}](https://github.com/${data.user}/${data.title}/blob/master/LICENSE.txt) license.
@@ -15,7 +15,6 @@ Licensed under the [${data.license}](https://github.com/${data.user}/${data.titl
 - GitHub: [${data.user}](https://github.com/${data.user})
 - Email: <${data.email}>
 `
-
 }
 
 module.exports = generateMarkdown;
