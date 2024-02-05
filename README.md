@@ -1,7 +1,7 @@
-# Create READMe file
+# create-README
 
   ## Overview
-The provided Node.js code constitutes a basic command-line application designed to facilitate the generation of README files for GitHub repositories. Utilizing modules such as inquirer for user prompts and fs for file system operatepository name, GitHub username, email address, project overview, and the license being used. Upon receiving user input, the program dynamically generates markdown content through the generateMarkdown module and asynchronously writes this content to a 'README.md' file.
+The provided Node.js code constitutes a basic command-line application designed to facilitate the generation of README files for GitHub repositories. Utilizing modules such as inquirer for user prompts and fs for file system operatepository name, GitHub username, email address, project overview, and the license being used. Upon receiving user input, the program dynamically generates markdown content through the generateMarkdown module and asynchronously writes this content to a 'README.md' file
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -19,10 +19,11 @@ The provided Node.js code constitutes a basic command-line application designed 
 
 - After installation type a command line node index.js
 - Answer the questions
+
 ![screenshot](./assets/screenshot.png)
 
 ## License
-Licensed under the [MIT](https://github.com/DaniloRua/Create READMe file/blob/master/LICENSE.txt) license.
+Licensed under the [MIT](https://github.com/DaniloRua/create-README/blob/master/LICENSE.txt) license.
 
 ## Tests
 
@@ -30,4 +31,4 @@ Licensed under the [MIT](https://github.com/DaniloRua/Create READMe file/blob/ma
 
 ## Contact
 - GitHub: [DaniloRua](https://github.com/DaniloRua)
-- Email: <sr_danilo@hotmail.com>
+- Email: <sr_danilo@hotmail.com	>
