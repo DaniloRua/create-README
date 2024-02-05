@@ -20,7 +20,7 @@ The provided Node.js code constitutes a basic command-line application designed 
 - After installation type a command line node index.js
 - Answer the questions
 
-![screenshot](./assets/screenshot.png)
+![screenshot](./assets/screenshot.PNG)
 
 ## License
 Licensed under the [MIT](https://github.com/DaniloRua/create-README/blob/master/LICENSE.txt) license.
