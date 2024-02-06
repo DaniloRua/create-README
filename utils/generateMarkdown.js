@@ -21,7 +21,10 @@ ${data.overview}
 
 - After installation type a command line ${data.command}
 - Answer the questions
-![screenshot](./assets/screenshot.png)
+
+Please click on screenshot to watch "how to use" video:
+(./assets/screenshot.png)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
 
 ## License
 Licensed under the [${data.license}](https://github.com/${data.user}/${data.title}/blob/master/LICENSE.txt) license.

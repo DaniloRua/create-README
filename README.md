@@ -20,7 +20,9 @@ The provided Node.js code constitutes a basic command-line application designed 
 - After installation type a command line node index.js
 - Answer the questions
 
-![screenshot](./assets/screenshot.PNG)
+- [Click here to watch how to use video](https://youtu.be/7ayFBna0gV8)
+- ![Screenshot](./assets/screenshot.PNG)
+
 
 ## License
 Licensed under the [MIT](https://github.com/DaniloRua/create-README/blob/master/LICENSE.txt) license.
@@ -31,4 +33,4 @@ Licensed under the [MIT](https://github.com/DaniloRua/create-README/blob/master/
 
 ## Contact
 - GitHub: [DaniloRua](https://github.com/DaniloRua)
-- Email: <sr_danilo@hotmail.com	>
+- Email: <sr_danilo@hotmail.com>
